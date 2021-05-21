@@ -11,5 +11,7 @@ In this repository you will get some code exercises that will help you to improv
 - [4] Ask for help on Stack Overflow, GitHub, forums and so on If you need it.
 - [5] Code, code and code.
 
+## Todo
 
+-[0] Finish the algorthm course
 
